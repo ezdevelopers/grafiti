@@ -1,1 +1,1 @@
-# Hello and welcome to git commit messages :)
+# Hello and welcome to git commit messages :smile: :laughing: :blush: :smiley: :relaxed: :smirk:
